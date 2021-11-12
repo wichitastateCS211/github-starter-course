@@ -103,6 +103,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * Create one final section with the H2 style called "Goals"
 * Write a short paragraph (just a few sentences will suffice) outlining what you hope to be confident in by the end of this course. 
 * Write a commit message and choose to create a new branch to start a pull request. 
+  * You're done after you hit the "Create Pull Request" button.
 
 ## 📝 Optional Steps
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
